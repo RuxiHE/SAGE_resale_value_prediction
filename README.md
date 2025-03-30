@@ -77,13 +77,13 @@ GraphSAGE significantly outperformed both GCN and Random Forest, showing strong 
 - Improve graph connectivity via better sampling strategies or user-behavior-based edges.
 
 ## 📁 Project Structure
+```bash
 ├── RF.ipynb                 # Random Forest regression implementation
-
 ├── SAGE_n_GCN.ipynb         # GCN and GraphSAGE implementation using PyTorch Geometric
-
+├── data_cleaning.ipynb      # Dataset cleaning: reduce high cardinality of text features.
 ├── CHANCHARUNEE_CHIANG_HE_LU_Project Final Report.pdf  # Full project report
-
 ├── README.md                # This file
+```
 
 ## 📚 References
 
