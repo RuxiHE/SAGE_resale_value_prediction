@@ -51,7 +51,7 @@ Edges were added between items based on:
 
 | Model       | R² Score | MAE    | MSE         |
 |-------------|----------|--------|-------------|
-| Random Forest | 0.13     | 250.17  | 875, 084.94  |
+| Random Forest | 0.13     | 250.17  | 875,084.94  |
 | GCN          | 0.05     | 355.77 | 644,539.81  |
 | GraphSAGE    | **0.33** | 283.84 | 455,572.88  |
 
